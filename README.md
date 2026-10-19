@@ -1,3 +1,5 @@
+# Cuurent Mod List (as of 26.10.17)
+
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
@@ -104,3 +106,7 @@
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
 - [iris extension](https://modrinth.com/mod/ReJLtXi4) by Merlin1809
 - [spark](https://modrinth.com/mod/l6YH9Als) by Luck
+
+# Current Shader Pack List (as of 26.10.17)
+- Complimentary Reimagined + Euphoria Patches
+- Clarity
