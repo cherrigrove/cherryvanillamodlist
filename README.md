@@ -1,112 +1,124 @@
-# Cuurent Mod List (as of 26.10.17)
+# Cuurent Mod List (as of 26.10.23)
 
-- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
-- [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
-- [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
-- [Alternate Current](https://modrinth.com/mod/r0v8vy1s) by Space Walker
-- [AntiAfk](https://modrinth.com/mod/b60GakFK) by Ciocolata47
-- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
-- [AsyncParticles](https://modrinth.com/mod/c3onkd5k) by Harvey\_Husky
-- [AutoReconnect](https://modrinth.com/mod/PRy8Khga) by NotRyken
-- [Axiom](https://modrinth.com/mod/N6n5dqoA) by Moulberry
-- [BBE](https://modrinth.com/mod/ONZm0H7Y) by ceeden
-- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
-- [BaguetteLib](https://modrinth.com/mod/OfKzpbRU) by Leclowndu93150
-- [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
-- [Better Clouds](https://modrinth.com/mod/5srFLIaK) by Qendolin, orangishcat
-- [BetterF3](https://modrinth.com/mod/8shC1gFX) by cominixo, TreyRuffy
-- [BetterGrassify](https://modrinth.com/mod/m5T5xmUy) by UltimatChamp, JayemCeekay
-- [Blur\+](https://modrinth.com/mod/NK39zBp2) by Motschen, amiralimollaei, tterrag1098, Pyrofab
-- [Boat Item View](https://modrinth.com/mod/BdKIyOLe) by 50ap5ud5
-- [Bobby](https://modrinth.com/mod/M08ruV16) by johni0702
-- [Borderless Fullscreen](https://modrinth.com/mod/UIexcMP1) by Bestsoft100
-- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
-- [Client Tweaks](https://modrinth.com/mod/vPNqo58Q) by BlayTheNinth
-- [Cloth Config v26\.3](https://modrinth.com/mod/9s6osm5g) by shedaniel
-- [Clumps](https://modrinth.com/mod/Wnxd13zP) by Jaredlll08
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) by RelativityMC, ishland
-- [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
-- [Controlify](https://modrinth.com/mod/DOUdJVEm) by isXander
-- [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
-- [CraftPresence](https://modrinth.com/mod/DFqQfIBR) by CDAGaming
-- [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) by KostromDan
-- [Debugify](https://modrinth.com/mod/QwxR6Gcd) by isXander
-- [Default Options](https://modrinth.com/mod/WEg59z5b) by BlayTheNinth
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh, Karnatour
-- [Distant Horizons SeedGen](https://modrinth.com/mod/iUGLCJTI) by Möbius
-- [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) by SuperMartijn642
-- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665, LostLuma
-- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
-- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
-- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
-- [Euphoria Patcher](https://modrinth.com/mod/4H6sumDB) by SpacEagle17
-- [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
-- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
-- [Fadeless](https://modrinth.com/mod/ncKjyGm3) by DerpDerpling, UltimateBoomer \(Original Author\)
-- [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) by Fourmisain, BrekiTomasson, RandomMcSomethin
-- [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
-- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
-- [Freecam](https://modrinth.com/mod/XeEZ3fK2) by hashalite, Matt Sturgeon
-- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
-- [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) by Sjouwer
-- [Highlighter](https://modrinth.com/mod/cVNW5lr6) by Grend
-- [Iceberg](https://modrinth.com/mod/5faXoLqX) by Grend
-- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
-- [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
-- [Iris Shader Folder](https://modrinth.com/mod/yv6sGJzN) by SpacEagle17
-- [IrisSearch](https://modrinth.com/mod/bkAgg84v) by SpacEagle17
-- [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
-- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
-- [Ksyxis](https://modrinth.com/mod/2ecVyZ49) by VidTu
-- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
-- [LetMeDespawn](https://modrinth.com/mod/vE2FN5qn) by frikinjay
-- [Lighty](https://modrinth.com/mod/yjvKidNM) by andi\_makes
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ) by JellySquid, 2No2Name
-- [MRU](https://modrinth.com/mod/SNVQ2c0g) by cassiancc, IMB11
-- [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by masa
-- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, gniftygnome, TerraformersMC
-- [ModernFix](https://modrinth.com/mod/TjSm1wrD) by embeddedt
-- [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
-- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh \(YaLTeR\)
-- [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) by BlayTheNinth
-- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
-- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by Fudge, Runemoro
-- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
-- [Opticores](https://modrinth.com/mod/5zhn04Hy) by ColorfulSunshine & Lilbroskato
-- [Packet Fixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
-- [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
-- [Pick Up Notifier](https://modrinth.com/mod/ZX66K16c) by Fuzs
-- [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox
-- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) by Hurricaaane \(Ha3\), Sollace
-- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
-- [Raise Sound Limit Simplified](https://modrinth.com/mod/SKW62Pht) by ishland
-- [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw) by dima\_dencep
-- [Resourcify](https://modrinth.com/mod/RLzHAoZe) by DeDiamondPro
-- [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) by Spottedleaf, ishland
-- [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
-- [ServerCore](https://modrinth.com/mod/4WWQxlQP) by Wesley1808
-- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) by MisterPeModder
-- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) by Max Henkel
-- [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
-- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
-- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) by Sonic Ether, vlad2305m, Max Henkel, Saint
-- [Sounds](https://modrinth.com/mod/ZouiUX7t) by IMB11, cassiancc
-- [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) by A5b84
-- [Stfu](https://modrinth.com/mod/Rg9WdvvR) by ItsFelix5
-- [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) by SuperMartijn642
-- [Tweakeroo](https://modrinth.com/mod/t5wuYk45) by masa
-- [UniLib](https://modrinth.com/mod/nT86WUER) by CDAGaming
-- [Very Many Players](https://modrinth.com/mod/wnEe9KBa) by ishland
-- [ViaFabricPlus](https://modrinth.com/mod/rIC2XJV4) by Florian Reuth \(EnZaXD\), RK\_01
-- [Visuality](https://modrinth.com/mod/rI0hvYcd) by PinkGoosik
-- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) by xaero96
-- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) by xaero96
-- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
-- [Zoomify](https://modrinth.com/mod/w7ThoJFB) by isXander
-- [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
-- [iris extension](https://modrinth.com/mod/ReJLtXi4) by Merlin1809
-- [spark](https://modrinth.com/mod/l6YH9Als) by Luck
+3d-Skin-Layers by tr7zw
+Accurate Block Placement by Clayborn, Flourick, KadTheHunter
+Almanac by frikinjay
+Alternate Current by Space Walker
+AntiAfk by Ciocolata47
+AppleSkin by squeek502
+AsyncParticles by Harvey_Husky
+AutoReconnect by NotRyken
+Axiom by Moulberry
+BBE by ceeden
+BadOptimizations by Thosea
+BaguetteLib by Leclowndu93150
+Balm by BlayTheNinth
+Better Clouds by Qendolin, orangishcat
+Better Statistics Screen by TheCSDev
+BetterF3 by cominixo, TreyRuffy
+BetterGrassify by UltimatChamp, JayemCeekay
+Blur+ by Motschen, amiralimollaei, tterrag1098, Pyrofab
+Boat Item View by 50ap5ud5
+Bobby by johni0702
+Chat Heads by dzwdz, Fourmisain
+Client Tweaks by BlayTheNinth
+Cloth Config v26.1 by shedaniel
+Clumps by Jaredlll08
+Concurrent Chunk Management Engine by RelativityMC, ishland
+Continuity by PepperCode1
+Controlify by isXander
+Controlling by Jaredlll08
+CraftPresence by CDAGaming
+Crash Assistant by KostromDan
+Cubes Without Borders by Kira-NT
+Debugify by isXander
+Default Options by BlayTheNinth
+Distant Horizons by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh, Karnatour
+Distant Horizons SeedGen by Möbius
+Durability Tooltip by SuperMartijn642
+Dynamic FPS by juliand665, LostLuma
+Entity Model Features by Traben
+Entity Texture Features by Traben
+EntityCulling by tr7zw
+Euphoria Patcher by SpacEagle17
+Fabric API by FabricMC
+Fabric Language Kotlin by FabricMC
+Fabrishot by ramidzkh
+Fadeless by DerpDerpling, UltimateBoomer (Original Author)
+Falling Leaves by Fourmisain, BrekiTomasson, RandomMcSomethin
+FastQuit by contaria
+FerriteCore by malte0811
+Forge Config API Port by Fuzs
+Freecam by hashalite, Matt Sturgeon
+Fzzy Config by fzzyhmstrs
+Gamma Utils by Sjouwer
+Highlighter by Grend
+Iceberg by Grend
+ImmediatelyFast by RK_01
+InvMove by PieKing1215
+Iris by coderbot, IMS212, Justsnoopy30, FoundationGames
+Iris Shader Folder by SpacEagle17
+IrisSearch by SpacEagle17
+Jade by Snownee
+Just Enough Items by mezz
+Ksyxis by VidTu
+LambDynamicLights by LambdAurora
+LetMeDespawn by frikinjay
+Lighty by andi_makes
+Lithium by JellySquid, 2No2Name
+MRU by cassiancc, IMB11
+MaLiLib by masa
+Mod Menu by Prospector, haykam821, gniftygnome, TerraformersMC
+ModernFix by embeddedt
+More Culling by FX - PR0CESS, 1Foxy2
+Mouse Tweaks by Ivan Molodetskikh (YaLTeR)
+NetherPortalFix by BlayTheNinth
+No Chat Reports by Aizistral
+Not Enough Crashes by Fudge, Runemoro
+NotEnoughAnimations by tr7zw
+Opticores by ColorfulSunshine & Lilbroskato
+Packet Fixer by TonimatasDEV
+Particle Core by fzzyhmstrs
+Pick Up Notifier by Fuzs
+Placeholder API by Patbox
+Presence Footsteps by Hurricaaane (Ha3), Sollace
+Puzzles Lib by Fuzs
+Raise Sound Limit Simplified by ishland
+Reese's Sodium Options by FlashyReese
+Remove Reloading Screen by dima_dencep
+Resourcify by DeDiamondPro
+ScalableLux by Spottedleaf, ishland
+Screenshot Viewer by LGatodu47
+Searchables by Jaredlll08
+ServerCore by Wesley1808
+Shulker Box Tooltip by MisterPeModder
+Simple Voice Chat by Max Henkel
+Sodium by JellySquid (jellysquid3)
+Sodium Extra by FlashyReese
+Sound Physics Remastered by Sonic Ether, vlad2305m, Max Henkel, Saint
+Sounds by IMB11, cassiancc
+Status Effect Bars by A5b84
+Stfu by ItsFelix5
+SuperMartijn642's Config Library by SuperMartijn642
+TCDCommons API by TheCSDev
+Tweakeroo by masa
+UniLib by CDAGaming
+Very Many Players by ishland
+ViaFabricPlus by Florian Reuth (EnZaXD), RK_01
+Visuality by PinkGoosik
+Xaero's Minimap by xaero96
+Xaero's World Map by xaero96
+YetAnotherConfigLib by isXander
+Zoomify by isXander
+e4mc by skyevg
+iris extension by Merlin1809
+spark by Luck 
 
-# Current Shader Pack List (as of 26.10.17)
-- Complimentary Reimagined + Euphoria Patches
-- Clarity
+# Current Shader Pack List (as of 26.10.23)
+Complimentary Reimagined + Euphoria Patches
+Clarity
+Eclipse (the one on github)
+
+# Current Resource Pack List (as of 26.10.23)
+
+Obvious Things
